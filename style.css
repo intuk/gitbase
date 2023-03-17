@@ -1,4 +1,21 @@
-.form1{
-    width: 60%;
-    height: 60%;
+
+
+form{
+    background-color: forestgreen;
+    border: 2px solid black;
+
 }
+
+div{
+    margin: 5px;
+    
+}
+
+#sumbit-btn{
+   background-color: rgb(152, 247, 152);
+}
+
+input{
+    border: 2px solid black;
+}
+
